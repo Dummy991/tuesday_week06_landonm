@@ -1,3 +1,8 @@
+#Git Repository files
+.settings
+.classpath
+.project
+
 # Compiled class file
 *.class
 
